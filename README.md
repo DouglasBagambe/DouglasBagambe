@@ -1,3 +1,10 @@
+<h1 align="center">Hey there, I'm Dyson Douglas 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33A1FD&center=true&vCenter=true&width=500&lines=Software+Engineer;Frontend+Developer;Backend+Developer;AI+%26+ML+Enthusiast;Blockchain+%26+Web3+Explorer" alt="Typing Animation" />
+</p>
+
+
 ## Hi there 👋
 
 <!--
