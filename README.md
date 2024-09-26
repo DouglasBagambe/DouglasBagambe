@@ -10,7 +10,7 @@ I'm a passionate Software Engineer with a strong focus on building scalable and 
 - 🔭 Currently working on full-stack web and mobile apps.
 - 🌱 Learning more about decentralized systems and AI-driven solutions.
 - 👯 Looking to collaborate on open-source Web3 projects.
-- 💬 Ask me about **React**, **Laravel**, **Flutter**, or anything in **Web3**.
+- 💬 Ask me about **Machine Learning**, **Python**, **Flutter**, or anything in **Web3**.
 
 ## 🔧 Tech Stack
 ### 🎨 Design Tools:
