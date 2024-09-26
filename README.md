@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ainamaani Douglas Bagambe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33A1FD&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Blockchain+%26+Web3+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33A1FD&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;UI/UX+Designer;AI+%26+ML+Enthusiast;Blockchain+%26+Web3+Developer" alt="Typing Animation" />
 </p>
 
 ## About Me
@@ -13,6 +13,10 @@ I'm a passionate Software Engineer with a strong focus on building scalable and 
 - 💬 Ask me about **React**, **Laravel**, **Flutter**, or anything in **Web3**.
 
 ## 🔧 Tech Stack
+### 🎨 Design Tools:
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+
 ### 💻 Frontend:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
