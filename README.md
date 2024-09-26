@@ -30,22 +30,11 @@ I'm a passionate Software Engineer with a strong focus on building scalable and 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DysonDouglas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DysonDouglas&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DysonDouglas&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 🚀 Featured Projects
-- [**Machine Learning Model for Image Recognition**](https://github.com/DysonDouglas/ml-image-recognition)
+- [**Machine Learning Model for text and voice Language translation**](https://github.com/DysonDouglas/ml-image-recognition)
 
 ## 🌐 Let’s Connect!
-- 📫 Reach out via email: [dyson@engineer.com](mailto:dyson@engineer.com)
+- 📫 Reach out via email: [My Email](mailto:douglasbagambe4@gmail.com)
 
 
 
