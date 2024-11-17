@@ -7,7 +7,7 @@
 ## About Me
 I'm a passionate Software Engineer with a strong focus on building scalable and efficient applications. With experience in **Frontend** and **Backend** development, I'm always exploring emerging technologies like **Machine Learning**, **Artificial Intelligence**, and **Blockchain** to enhance my skillset.
 
-- 🔭 Currently working on full-stack web and mobile apps.
+- 🔭 Currently working on a full stack Solana NFT Marketplace in Rust.
 - 🌱 Learning more about decentralized systems and AI-driven solutions.
 - 👯 Looking to collaborate on open-source Web3 projects.
 - 💬 Ask me about **Machine Learning**, **Python**, **Flutter**, or anything in **Web3**.
