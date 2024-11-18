@@ -9,7 +9,7 @@ I'm a passionate Software Engineer with a strong focus on building scalable and 
 
 - 🔭 Currently working on: - A full stack Solana NFT Marketplace in Rust.
                            - A Driver Behavior Monitoring ML System(DBMS).
-                           - A Driver Behavior Drowsiness ML System(DDMS).
+                           - A Driver Drowsiness Monitoring ML System(DDMS).
 - 🌱 Learning more about decentralized systems and AI-driven solutions.
 - 👯 Looking to collaborate on open-source Web3 projects.
 - 💬 Ask me about **Machine Learning**, **Python**, **Flutter**, or anything in **Web3**.
