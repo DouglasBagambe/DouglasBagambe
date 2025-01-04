@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ainamaani Douglas Bagambe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=25000&pause=1000&color=33A1FD&center=true&vCenter=true&width=1200&lines=Web3+%26+Blockchain+Developer+%7C%7C+Solana+%26+Rust+Enthusiast+%7C%7C+Full+Stack+Engineer+%7C%7C+AI%2FML+Innovator+%7C%7C+UI%2FUX+Designer" alt="Developer Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=25000&pause=1000&color=33A1FD&center=true&vCenter=true&width=1200&lines=+%7C%7C+%7C%7C+%7C%7C+%7C%7C+%7C%7C+%7C%7C+Web3+%26+Blockchain+Developer+%7C%7C+Solana+%26+Rust+Enthusiast+%7C%7C+Full+Stack+Engineer+%7C%7C+AI%2FML+Innovator+%7C%7C+UI%2FUX+Designer" alt="Developer Skills" />
 </p>
 
 
