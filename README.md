@@ -1,24 +1,60 @@
 <h1 align="center">Hey there, I'm Ainamaani Douglas Bagambe 👋</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=28&duration=3000&pause=200&color=33A1FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Web3+%26+Blockchain+Developer" alt="Developer Skills" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0">
+      <stop offset="0%" style="stop-color:#4A90E2">
+        <animate attributeName="stop-color" values="#4A90E2;#33A1FD;#9B51E0;#4A90E2" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#9B51E0">
+        <animate attributeName="stop-color" values="#9B51E0;#4A90E2;#33A1FD;#9B51E0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=28&duration=3000&pause=3200&color=33A1FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%F0%9F%9A%80+Solana+%26+Rust+Enthusiast" alt="Developer Skills" />
-</p>
+  <!-- Background -->
+  <rect width="800" height="100" fill="#0D1117"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=28&duration=3000&pause=6400&color=33A1FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%F0%9F%92%BB+Full+Stack+Engineer+%26+UI%2FUX+Designer" alt="Developer Skills" />
-</p>
+  <!-- Animated Pattern -->
+  <path d="M0,50 Q200,20 400,50 T800,50" stroke="url(#gradient)" stroke-width="2" fill="none">
+    <animate attributeName="d" 
+      values="M0,50 Q200,20 400,50 T800,50;
+              M0,50 Q200,80 400,50 T800,50;
+              M0,50 Q200,20 400,50 T800,50"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=28&duration=3000&pause=9600&color=33A1FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%F0%9F%A4%96+AI+%26+ML+Innovator" alt="Developer Skills" />
-</p>
+  <!-- Text Elements with Animation -->
+  <g filter="url(#glow)">
+    <text id="mainText" x="400" y="55" text-anchor="middle" font-family="monospace" font-size="24" font-weight="bold" fill="url(#gradient)">
+      <tspan class="skill">⚡ Web3</tspan>
+      <tspan dx="10">•</tspan>
+      <tspan dx="10" class="skill">🚀 Solana</tspan>
+      <tspan dx="10">•</tspan>
+      <tspan dx="10" class="skill">💻 Full Stack</tspan>
+      <tspan dx="10">•</tspan>
+      <tspan dx="10" class="skill">🤖 AI/ML</tspan>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=28&duration=3000&pause=12800&color=33A1FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%F0%9F%8E%A8+WordPress+%26+CMS+Specialist" alt="Developer Skills" />
-</p>
+  <!-- Animated Particles -->
+  <g>
+    <circle cx="100" cy="50" r="2" fill="#33A1FD">
+      <animate attributeName="cy" values="50;30;50" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="50" r="2" fill="#33A1FD">
+      <animate attributeName="cy" values="50;70;50" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
 
 ## 🚀 About Me
 I'm a passionate **Software Engineer** specializing in **Web3** and **Blockchain** technologies. My journey has been fueled by curiosity and a desire to craft scalable, efficient, and impactful applications. From building decentralized systems to AI-driven innovations, I enjoy exploring the cutting edge of technology. 
