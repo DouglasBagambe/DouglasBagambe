@@ -1,8 +1,11 @@
 <h1 align="center">Hey there, I'm Ainamaani Douglas Bagambe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=33A1FD&center=true&vCenter=true&width=435&lines=Web3+%26+Blockchain+Developer;Solana+%26+Rust+Enthusiast;Full+Stack+Engineer;AI%2FML+Innovator;UI%2FUX+Designer" alt="Developer Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=25000&pause=1000&color=33A1FD&center=true&vCenter=true&width=1200&lines=Web3+%26+Blockchain+Developer+%7C%7C+Solana+%26+Rust+Enthusiast+%7C%7C+Full+Stack+Engineer+%7C%7C+AI%2FML+Innovator+%7C%7C+UI%2FUX+Designer" alt="Developer Skills" />
 </p>
+
+
+
 
 ## 🚀 About Me
 I'm a passionate **Software Engineer** specializing in **Web3** and **Blockchain** technologies. My journey has been fueled by curiosity and a desire to craft scalable, efficient, and impactful applications. From building decentralized systems to AI-driven innovations, I enjoy exploring the cutting edge of technology. 
