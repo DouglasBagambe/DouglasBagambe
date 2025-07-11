@@ -1,22 +1,22 @@
 # <div align="center">🚀 AINAMAANI DOUGLAS BAGAMBE 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+ARCHITECT+%7C+AI%2FML+VISIONARY;SOLANA+ECOSYSTEM+PIONEER;WEB3+INFRASTRUCTURE+BUILDER;DECENTRALIZED+SYSTEMS+ENGINEER;NEURAL+NETWORK+SPECIALIST;Co-Founder+%40+NileBitLabs" alt="Elite Developer Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+DEVELOPER+%7C+AI%2FML+ENGINEER;SOLANA+ECOSYSTEM+DEVELOPER;WEB3+FULL-STACK+ENGINEER;DECENTRALIZED+SYSTEMS+BUILDER;NEURAL+NETWORK+DEVELOPER;Co-Founder+%40+NileBitLabs" alt="Developer Banner" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏆 **CO-FOUNDER & CTO** @ [NileBitLabs](https://nilebitlabs.com)
+## 🏢 **CO-FOUNDER & CTO** @ [NileBitLabs](https://nilebitlabs.com)
 <div align="center">
-  <img src="https://img.shields.io/badge/LEADING-BLOCKCHAIN_INNOVATION-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUILDING-DECENTRALIZED_FUTURE-9932CC?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUILDING-BLOCKCHAIN_SOLUTIONS-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVELOPING-WEB3_APPLICATIONS-9932CC?style=for-the-badge&logo=solana&logoColor=white" />
 </div>
 
 ---
 
-## 🐍 **CONTRIBUTION DOMINATION**
+## 🐍 **GITHUB CONTRIBUTIONS**
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake-dark.svg">
@@ -27,37 +27,39 @@
 
 ---
 
-## ⚡ **ULTRA-STREAK SYSTEM** (Miss 2 Days = Reset)
+## ⚡ **COMMIT STREAK** (Enhanced - Miss 2 Days = Reset)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="Ultra Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
 </div>
 
 ---
 
-## 🌟 **BLOCKCHAIN ARCHITECT & AI VISIONARY**
+## 🌟 **ABOUT ME**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=Architecting+the+Decentralized+Web;Building+AI-Powered+Blockchain+Solutions;Pioneering+Cross-Chain+Infrastructure;Developing+Neural+Network+Models;Creating+DeFi+Protocols;Innovating+NFT+Ecosystems" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=Blockchain+Developer+%26+AI%2FML+Engineer;Building+Decentralized+Applications;Creating+Smart+Contracts;Developing+Machine+Learning+Models;Full-Stack+Web3+Development;Cross-Chain+Solutions" alt="Skills Animation" />
 </div>
 
-### 🔥 **CURRENT DOMINATION:**
-- 🚀 **Full-Stack Solana NFT Marketplace** - Revolutionary NFT trading platform with AI-powered pricing
-- 🧠 **AI-Driven Driver Behavior Monitoring System** - Neural network analysis for automotive safety
-- 🔮 **Driver Drowsiness Detection** - Computer vision + ML for accident prevention
-- 🌐 **Cross-Chain Bridge Protocol** - Seamless asset transfer across multiple blockchains
-- 🤖 **Decentralized AI Marketplace** - P2P AI model trading on blockchain
+I'm a passionate **Software Engineer** specializing in **Blockchain Development** and **AI/ML Engineering**. As Co-Founder of NileBitLabs, I focus on building innovative Web3 solutions and AI-powered applications.
 
-### 💡 **INNOVATION FOCUS:**
-- 🔬 **Deep Learning + Blockchain Convergence**
-- 🌊 **Scalable DeFi Infrastructure**
-- 🎯 **AI-Powered Smart Contract Optimization**
-- 🚀 **Zero-Knowledge Proof Implementations**
+### 🔭 **CURRENT PROJECTS:**
+- 🚀 **Full-Stack Solana NFT Marketplace** - Built with Rust and React
+- 🧠 **Driver Behavior Monitoring System (DBMS)** - AI-powered driver analysis
+- 🔮 **Driver Drowsiness Monitoring System (DDMS)** - Computer vision for safety
+- 🌐 **WordPress Web3 CMS** - Blockchain-integrated content management
+- 🔗 **Cross-Chain Development** - Multi-blockchain applications
+
+### 🌱 **LEARNING & EXPANDING:**
+- Advanced Solana program development
+- Deep learning architectures
+- Zero-knowledge proof implementations
+- Decentralized finance protocols
 
 ---
 
-## 🛠️ **ELITE TECH ARSENAL**
+## 🛠️ **TECH STACK**
 
-### 🧠 **AI/ML MASTERY:**
+### 🧠 **AI/ML DEVELOPMENT:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" />
   <br/>
@@ -69,7 +71,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
-### ⛓️ **BLOCKCHAIN DOMINANCE:**
+### ⛓️ **BLOCKCHAIN DEVELOPMENT:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity,rust,ethereum&theme=dark" />
   <br/>
@@ -83,7 +85,7 @@
   <img src="https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white" />
 </div>
 
-### 💻 **FULL-STACK EXCELLENCE:**
+### 💻 **FULL-STACK DEVELOPMENT:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,typescript,flutter,laravel&theme=dark" />
   <br/>
@@ -96,7 +98,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 
-### 🎨 **DESIGN MASTERY:**
+### 🎨 **DESIGN & PROTOTYPING:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,xd&theme=dark" />
   <br/>
@@ -107,62 +109,39 @@
 
 ---
 
-## 🏆 **LEGENDARY ACHIEVEMENTS**
-
-### 🔥 **BLOCKCHAIN INNOVATIONS:**
-- 🚀 **Revolutionary DeFi Protocol** - $10M+ TVL within 6 months
-- 🌉 **Cross-Chain NFT Bridge** - Solana ↔ Ethereum seamless transfers
-- 🎯 **AI-Powered Trading Bot** - 300% ROI algorithmic trading system
-- 🔐 **Zero-Knowledge Proof Implementation** - Privacy-preserving smart contracts
-- 💎 **Metaplex Contributor** - Core contributions to Solana NFT ecosystem
-
-### 🧠 **AI/ML BREAKTHROUGHS:**
-- 🚗 **Autonomous Vehicle AI** - 99.7% accuracy in object detection
-- 🏥 **Medical Diagnosis Neural Network** - Published in IEEE journals
-- 💰 **Fraud Detection Algorithm** - Prevented $5M+ in financial losses
-- 🎵 **Music Generation AI** - Grammy-nominated artist collaboration
-- 🌍 **Climate Prediction Model** - UN Environmental Program partnership
-
-### 🏢 **ENTERPRISE SOLUTIONS:**
-- 🏦 **Central Bank Digital Currency** - Architected CBDC for African nation
-- 🏭 **Supply Chain Transparency** - Blockchain solution for Fortune 500
-- 🎓 **Educational Platform** - 100K+ students on decentralized learning system
-- 🏥 **Healthcare Records System** - HIPAA-compliant blockchain solution
-
----
-
-## 🎯 **ULTRA-MEGA PROJECTS**
+## 🎯 **FEATURED PROJECTS**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasBagambe&repo=SOONNFTMarketplace&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasBagambe&repo=DBMS&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" />
 </div>
 
-### 🌟 **FEATURED INNOVATIONS:**
-- [**🚀 Solana NFT Marketplace**](https://github.com/DouglasBagambe/SOONNFTMarketplace) - Next-gen NFT trading with AI pricing
-- [**🧠 AI Driver Monitoring**](https://github.com/DouglasBagambe/DBMS) - Real-time behavior analysis system
-- [**⚡ WordPress Web3 CMS**](https://github.com/DouglasBagambe/wordpress-web3-cms) - Decentralized content management
-- [**💎 DeFi Yield Optimizer**](https://github.com/DouglasBagambe/defi-yield-optimizer) - Maximum return algorithms
-- [**🔮 AI NFT Pricing Engine**](https://github.com/DouglasBagambe/ai-nft-pricing) - Machine learning asset valuation
-- [**🌉 Cross-Chain Bridge**](https://github.com/DouglasBagambe/cross-chain-bridge) - Multi-blockchain interoperability
-- [**🤖 Decentralized AI Marketplace**](https://github.com/DouglasBagambe/decentralized-ai-marketplace) - P2P AI model trading
+### 🚀 **RECENT WORK:**
+- [**Solana NFT Marketplace**](https://github.com/DouglasBagambe/SOONNFTMarketplace) - Decentralized NFT trading platform on SOON
+- [**Driver Behavior Monitoring System**](https://github.com/DouglasBagambe/DBMS) - AI-based driver analysis system
+- [**WordPress Web3 CMS**](https://github.com/DouglasBagambe/wordpress-web3-cms) - Blockchain-integrated content management
+- [**DeFi Yield Optimizer**](https://github.com/DouglasBagambe/defi-yield-optimizer) - Automated yield farming tool
+- [**AI NFT Pricing Tool**](https://github.com/DouglasBagambe/ai-nft-pricing) - Machine learning for NFT valuation
 
 ---
 
-## 📊 **PERFORMANCE METRICS**
+## 📊 **GITHUB STATISTICS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DouglasBagambe&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&fire_color=00D4FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DouglasBagambe&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBagambe&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
+---
+
+## 🔥 **ACTIVITY OVERVIEW**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DouglasBagambe&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true&color=00D4FF" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🌐 **CONNECT WITH THE LEGEND**
+## 🌐 **CONNECT WITH ME**
 
 <div align="center">
   <a href="mailto:douglasbagambe4@gmail.com">
@@ -184,27 +163,6 @@
 
 ---
 
-## 🎵 **SPOTIFY CODING SESSIONS**
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=realdyson&unique={true}" alt="Spotify Recently Played" />
-</div>
-
----
-
-## 🔥 **ACTIVITY HEATMAP**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
----
-
-## 🌟 **TESTIMONIALS**
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%22Douglas+transformed+our+blockchain+vision+into+reality%22;%22His+AI+solutions+exceeded+all+expectations%22;%22A+true+innovator+in+the+Web3+space%22;%22Best+blockchain+architect+I've+worked+with%22" alt="Testimonials" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DouglasBagambe&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -216,6 +174,44 @@
 ---
 
 <div align="center">
-  <h3>🚀 BUILDING THE DECENTRALIZED FUTURE, ONE BLOCK AT A TIME 🚀</h3>
-  <p><em>✨ Where Blockchain Meets Artificial Intelligence ✨</em></p>
+  <h3>🚀 BUILDING INNOVATIVE BLOCKCHAIN & AI SOLUTIONS 🚀</h3>
+  <p><em>✨ Where Technology Meets Innovation ✨</em></p>
 </div>
+
+---
+
+## 🐍 **SNAKE ANIMATION SETUP**
+
+To get the snake animation working, create a file `.github/workflows/snake.yml` in your repository:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: DouglasBagambe
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#00D4FF&color_dots=#0D1117,#161B22,#21262D,#30363D,#00D4FF
+            
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
