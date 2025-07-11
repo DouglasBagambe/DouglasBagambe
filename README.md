@@ -1,4 +1,4 @@
-# <div align="center">🚀 AINAMAANI DOUGLAS BAGAMBE 🚀</div>
+# <div align="center">DOUGLAS BAGAMBE</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+DEVELOPER+%7C+AI%2FML+ENGINEER;SOLANA+ECOSYSTEM+DEVELOPER;WEB3+FULL-STACK+ENGINEER;DECENTRALIZED+SYSTEMS+BUILDER;NEURAL+NETWORK+DEVELOPER;Co-Founder+%40+NileBitLabs" alt="Developer Banner" />
@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏢 **CO-FOUNDER & CTO** @ [NileBitLabs](https://nilebitlabs.com)
+## 🏢 **CO-FOUNDER** @ [NileBitLabs](https://nilebitlabs.com)
 <div align="center">
   <img src="https://img.shields.io/badge/BUILDING-BLOCKCHAIN_SOLUTIONS-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVELOPING-WEB3_APPLICATIONS-9932CC?style=for-the-badge&logo=solana&logoColor=white" />
@@ -179,39 +179,3 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 </div>
 
 ---
-
-## 🐍 **SNAKE ANIMATION SETUP**
-
-To get the snake animation working, create a file `.github/workflows/snake.yml` in your repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: DouglasBagambe
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?color_snake=#00D4FF&color_dots=#0D1117,#161B22,#21262D,#30363D,#00D4FF
-            
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
