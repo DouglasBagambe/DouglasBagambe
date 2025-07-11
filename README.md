@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏢 **CO-FOUNDER** @ [NileBitLabs](https://nilebitlabs.com)
+## <div align="center">🏢 **Co-Founder** @ [NileBitLabs](https://nilebitlabs.com)</div>
 <div align="center">
   <img src="https://img.shields.io/badge/BUILDING-BLOCKCHAIN_SOLUTIONS-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVELOPING-WEB3_APPLICATIONS-9932CC?style=for-the-badge&logo=solana&logoColor=white" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 🐍 **GITHUB CONTRIBUTIONS**
+## <div align="center">🐍 **GitHub Contributions**</div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake-dark.svg">
@@ -25,11 +25,19 @@
   </picture>
 </div>
 
----
-
-## ⚡ **COMMIT STREAK** (Enhanced - Miss 2 Days = Reset)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>⚡ **Commit Streak**</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
+      </td>
+      <td align="center">
+        <h3>📈 **Contribution Graph**</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -134,30 +142,23 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## 🔥 **ACTIVITY OVERVIEW**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
----
-
 ## 🌐 **CONNECT WITH ME**
 
 <div align="center">
   <a href="mailto:douglasbagambe4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/douglasbagambe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/realdyson_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://warpcast.com/realdyson">
-    <img src="https://img.shields.io/badge/Warpcast-9932CC?style=for-the-badge&logo=warp&logoColor=white" alt="Warpcast" />
+    <img src="https://img.shields.io/badge/-Warpcast-9932CC?style=for-the-badge&logo=warpcast&logoColor=white" alt="Warpcast" />
   </a>
   <a href="https://nilebitlabs.com">
-    <img src="https://img.shields.io/badge/NileBitLabs-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" alt="NileBitLabs" />
+    <img src="https://img.shields.io/badge/-NileBitLabs-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" alt="NileBitLabs" />
   </a>
 </div>
 
@@ -177,5 +178,3 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   <h3>🚀 BUILDING INNOVATIVE BLOCKCHAIN & AI SOLUTIONS 🚀</h3>
   <p><em>✨ Where Technology Meets Innovation ✨</em></p>
 </div>
-
----
