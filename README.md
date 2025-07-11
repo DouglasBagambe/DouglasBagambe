@@ -29,11 +29,11 @@
   <table>
     <tr>
       <td align="center">
-        <h3>⚡ **Commit Streak**</h3>
+        <h3>⚡ Commit Streak</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
       </td>
       <td align="center">
-        <h3>📈 **Contribution Graph**</h3>
+        <h3>📈 Contribution Graph</h3>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Activity Graph" />
       </td>
     </tr>
