@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <div align="center">🏢 **Co-Founder** @ [NileBitLabs](https://nilebitlabs.com)</div>
+## <div align="center">🏢 **Co-Founder** @[NileBitLabs](https://nilebitlabs.com)</div>
 <div align="center">
   <img src="https://img.shields.io/badge/BUILDING-BLOCKCHAIN_SOLUTIONS-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVELOPING-WEB3_APPLICATIONS-9932CC?style=for-the-badge&logo=solana&logoColor=white" />
