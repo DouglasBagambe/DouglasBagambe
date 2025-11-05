@@ -16,32 +16,6 @@
 
 ---
 
-## <div align="center">🐍 **GitHub Contributions**</div>
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake.svg">
-  </picture>
-</div> -->
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>⚡ Commit Streak</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
-      </td>
-      <td align="center">
-        <h3>📈 Contribution Graph</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🌟 **ABOUT ME**
 
 <div align="center">
@@ -117,27 +91,37 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## 🎯 **FEATURED PROJECTS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasBagambe&repo=SOONNFTMarketplace&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasBagambe&repo=DBMS&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" />
-</div>
-
-### 🚀 **RECENT WORK:**
-- [**Solana NFT Marketplace**](https://github.com/DouglasBagambe/SOONNFTMarketplace) - Decentralized NFT trading platform on SOON
-- [**Driver Behavior Monitoring System**](https://github.com/DouglasBagambe/DBMS) - AI-based driver analysis system
-- [**WordPress Web3 CMS**](https://github.com/DouglasBagambe/wordpress-web3-cms) - Blockchain-integrated content management
-- [**DeFi Yield Optimizer**](https://github.com/DouglasBagambe/defi-yield-optimizer) - Automated yield farming tool
-- [**AI NFT Pricing Tool**](https://github.com/DouglasBagambe/ai-nft-pricing) - Machine learning for NFT valuation
-
----
-
 ## 📊 **GITHUB STATISTICS**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DouglasBagambe&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBagambe&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## <div align="center">🐍 **GitHub Contributions**</div>
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake.svg">
+  </picture>
+</div> -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>⚡ Commit Streak</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
+      </td>
+      <td align="center">
+        <h3>📈 Contribution Graph</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
