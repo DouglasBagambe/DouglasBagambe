@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 **ABOUT ME**
+## **ABOUT ME**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=Blockchain+Developer+%26+AI%2FML+Engineer;Building+Decentralized+Applications;Creating+Smart+Contracts;Developing+Machine+Learning+Models;Full-Stack+Web3+Development;Cross-Chain+Solutions" alt="Skills Animation" />
