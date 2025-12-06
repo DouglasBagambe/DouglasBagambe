@@ -1,7 +1,7 @@
 # <div align="center">DOUGLAS BAGAMBE</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+DEVELOPER+%7C+AI%2FML+ENGINEER;SOLANA+ECOSYSTEM+DEVELOPER;WEB3+FULL-STACK+ENGINEER;DECENTRALIZED+SYSTEMS+BUILDER;NEURAL+NETWORK+DEVELOPER;Co-Founder+%40+NileBitLabs" alt="Dev Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+DEVELOPER+%7C+AI%2FML+ENGINEER;SOLANA+ECOSYSTEM+DEVELOPER;WEB3+FULL-STACK+ENGINEER;DECENTRALIZED+SYSTEMS+BUILDER;Co-Founder+%40+NileBitLabs" alt="Dev Banner" />
 </div>
 
 <div align="center">
