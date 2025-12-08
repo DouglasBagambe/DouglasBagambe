@@ -157,8 +157,3 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 </div>
 
 ---
-
-<div align="center">
-  <h3>🚀 BUILDING INNOVATIVE BLOCKCHAIN & AI SOLUTIONS 🚀</h3>
-  <p><em>✨ Where Technology Meets Innovation ✨</em></p>
-</div>
