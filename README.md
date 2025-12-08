@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+DEVELOPER+%7C+AI%2FML+ENGINEER;SOLANA+ECOSYSTEM+DEVELOPER;WEB3+FULL-STACK+ENGINEER;DECENTRALIZED+SYSTEMS+BUILDER;Co-Founder+%40+NileBitLabs" alt="Dev Banner" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ## <div align="center">🏢 **Co-Founder** @[NileBitLabs](https://nilebitlabs.com)</div>
 <div align="center">
   <img src="https://img.shields.io/badge/BUILDING-BLOCKCHAIN_SOLUTIONS-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -150,10 +146,6 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DouglasBagambe&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
