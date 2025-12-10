@@ -21,11 +21,11 @@
 I'm a passionate **Software Engineer** specializing in **Blockchain Development** and **AI/ML Engineering**. As Co-Founder of NileBitLabs, I focus on building innovative Web3 solutions and AI-powered applications.
 
 ### 🔭 **CURRENT PROJECTS:**
-- 🚀 **Full-Stack Solana NFT Marketplace** - Built with Rust and React
-- 🧠 **Driver Behavior Monitoring System (DBMS)** - AI-powered driver analysis
-- 🔮 **Driver Drowsiness Monitoring System (DDMS)** - Computer vision for safety
-- 🌐 **WordPress Web3 CMS** - Blockchain-integrated content management
-- 🔗 **Cross-Chain Development** - Multi-blockchain applications
+- **Full-Stack Solana NFT Marketplace** - Built with Rust and React
+- **Driver Behavior Monitoring System (DBMS)** - AI-powered driver analysis
+- **Driver Drowsiness Monitoring System (DDMS)** - Computer vision for safety
+- **WordPress Web3 CMS** - Blockchain-integrated content management
+- **Cross-Chain Development** - Multi-blockchain applications
 
 ### 🌱 **LEARNING & EXPANDING:**
 - Advanced Solana program development
