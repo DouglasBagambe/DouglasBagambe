@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=100&lines=BLOCKCHAIN+DEVELOPER+%7C+AI%2FML+ENGINEER;SOLANA+ECOSYSTEM+DEVELOPER;WEB3+FULL-STACK+ENGINEER;DECENTRALIZED+SYSTEMS+BUILDER;Co-Founder+%40+NileBitLabs" alt="Dev Banner" />
 </div>
 
-## <div align="center">🏢 **Co-Founder** @[NileBitLabs](https://nilebitlabs.com)</div>
+## <div align="center">**Co-Founder** @[NileBitLabs](https://nilebitlabs.com)</div>
 <div align="center">
   <img src="https://img.shields.io/badge/BUILDING-BLOCKCHAIN_SOLUTIONS-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVELOPING-WEB3_APPLICATIONS-9932CC?style=for-the-badge&logo=solana&logoColor=white" />
@@ -20,14 +20,14 @@
 
 I'm a passionate **Software Engineer** specializing in **Blockchain Development** and **AI/ML Engineering**. As Co-Founder of NileBitLabs, I focus on building innovative Web3 solutions and AI-powered applications.
 
-### 🔭 **CURRENT PROJECTS:**
+### **CURRENT PROJECTS:**
 - **Full-Stack Solana NFT Marketplace** - Built with Rust and React
 - **Driver Behavior Monitoring System (DBMS)** - AI-powered driver analysis
 - **Driver Drowsiness Monitoring System (DDMS)** - Computer vision for safety
 - **WordPress Web3 CMS** - Blockchain-integrated content management
 - **Cross-Chain Development** - Multi-blockchain applications
 
-### 🌱 **LEARNING & EXPANDING:**
+### **LEARNING & EXPANDING:**
 - Advanced Solana program development
 - Deep learning architectures
 - Zero-knowledge proof implementations
@@ -35,9 +35,9 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## 🛠️ **TECH STACK**
+## **TECH STACK**
 
-### 🧠 **AI/ML DEVELOPMENT:**
+### **AI/ML DEVELOPMENT:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" />
   <br/>
@@ -49,7 +49,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
-### ⛓️ **BLOCKCHAIN DEVELOPMENT:**
+### **BLOCKCHAIN DEVELOPMENT:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity,rust,ethereum&theme=dark" />
   <br/>
@@ -63,7 +63,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   <img src="https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white" />
 </div>
 
-### 💻 **FULL-STACK DEVELOPMENT:**
+### **FULL-STACK DEVELOPMENT:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,typescript,flutter,laravel&theme=dark" />
   <br/>
@@ -76,7 +76,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 
-### 🎨 **DESIGN & PROTOTYPING:**
+### **DESIGN & PROTOTYPING:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,xd&theme=dark" />
   <br/>
@@ -87,7 +87,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## 📊 **GITHUB STATISTICS**
+## **GITHUB STATISTICS**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DouglasBagambe&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
@@ -96,7 +96,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## <div align="center">🐍 **GitHub Contributions**</div>
+## <div align="center">**GitHub Contributions**</div>
 <!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake-dark.svg">
@@ -109,11 +109,11 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   <table>
     <tr>
       <td align="center">
-        <h3>⚡ Commit Streak</h3>
+        <h3>Commit Streak</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasBagambe&theme=blue-green&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4FF" alt="GitHub Streak Stats">
       </td>
       <td align="center">
-        <h3>📈 Contribution Graph</h3>
+        <h3>Contribution Graph</h3>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasBagambe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Activity Graph" />
       </td>
     </tr>
@@ -122,7 +122,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## 🌐 **CONNECT WITH ME**
+## **CONNECT WITH ME**
 
 <div align="center">
   <a href="mailto:douglasbagambe4@gmail.com">
