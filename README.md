@@ -94,9 +94,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBagambe&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
----
-
-## <div align="center">**GitHub Contributions**</div>
+<!-- ## <div align="center">**GitHub Contributions**</div>
 <!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasBagambe/DouglasBagambe/output/github-contribution-grid-snake-dark.svg">
@@ -105,7 +103,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
   </picture>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td align="center">
@@ -118,7 +116,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ---
 
