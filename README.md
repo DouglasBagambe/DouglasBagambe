@@ -120,7 +120,7 @@ I'm a passionate **Software Engineer** specializing in **Blockchain Development*
 
 ---
 
-## **CONNECT WITH ME**
+## **CONTACT ME**
 
 <div align="center">
   <a href="mailto:douglasbagambe4@gmail.com">
